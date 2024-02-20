@@ -1,0 +1,10 @@
+body {
+    min-width: 200px;
+    padding: 10px;
+    font-family: Arial, sans-serif;
+}
+
+#colorPicker {
+    margin-bottom: 10px;
+    cursor: pointer;
+}
